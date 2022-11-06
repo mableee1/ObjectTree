@@ -1,5 +1,4 @@
 # ObjectTree
-I'm presenting my solution for the "Object Tree" problem in JS.
 
 Problem description:
 Write a function createTree that creates a nested ul/li list from the nested object.
